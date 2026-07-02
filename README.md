@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: Tushar Sharma 
  ## 👋 About Me<br><br>🔭 I’m currently working on AI & Machine Learning<br>      and Data Analytics projects.<br><br>👯 I’m looking to collaborate on Open Source, Python, AI/ML,<br>      and Data Science projects.<br><br>🤝 I’m looking for help with Deep Learning,<br>      MLOps, and Cloud Computing.<br><br>🌱 I’m currently learning Machine Learning,<br>      Data Structures & Algorithms, and Google Cloud.<br><br>💬 Ask me about Python, C++, Data Analytics,<br>      SQL, and GitHub.<br><br>⚡ Fun fact: I enjoy solving coding problems on <br>      LeetCode and building real-world AI projects.
 
 
